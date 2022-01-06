@@ -96,6 +96,7 @@ p{
     padding-left: 15%;
     display: flex;
     flex-direction: row;
+    margin-top: 5%;
 
 }
 .ditio img{
@@ -106,4 +107,76 @@ p{
    padding-left: 5%;  
    padding-right: 15%;
 }
-
+.section4-container {
+    padding-left: 5%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+.tritio img{
+    width: 400px;
+    padding-top: 20px;
+    padding-right: 0%;
+    margin-right: 170px;
+    
+}
+.segment4-1-1 {
+   padding-left: 10%;
+   padding-right: 10%;  
+   padding-inline-end: 5%;
+  
+}
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red-color{
+    color: red;
+}
+h5{
+    font-family: cursive;
+    font-weight: 20;
+   
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    box-sizing: border-box;
+    widows: 100%;
+    padding-top: 2%;
+    margin-top: 5%;
+}
+.end {
+    color: blanchedalmond;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.section5-container {
+    padding-left: 15%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.fourth img{
+    width: 400px;
+    padding-top: 20px;
+    padding-right: 10%;
+    
+    
+}
+.segment5-1-1 {
+   padding-left: 10%;
+   padding-right: 10%;  
+   padding-inline-end: 5%;
+  
+}
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 5%;
+}
